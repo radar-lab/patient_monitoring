@@ -1,0 +1,3 @@
+<launch>
+    <node pkg = "mds_cnn_node_pkg" name = "mds_cnn_node_pkg" type = "mds_cnn_node.py" output="screen" />
+</launch>

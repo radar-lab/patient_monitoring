@@ -1,0 +1,3 @@
+<launch>
+    <node pkg = "micro_doppler_pkg" name = "micro_doppler_pkg" type = "micro_doppler.py" output="screen" />
+</launch>
