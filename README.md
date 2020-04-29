@@ -9,7 +9,7 @@ Run 'permission.sh' to give the serial port permission.
 
 Run 'behavior.sh' to run the ROS nodes sequentially. 
 
-See ~/src folder to check the ROS source code. 
+Check ~/src folder for the project source code. 
  
 ## System Architecture
 ![](/misc/system.JPG)
