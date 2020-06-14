@@ -2,7 +2,6 @@
 Multiple Patients Behavior Detection in Real-time using mmWave Radar and Deep CNNs
 
 Please cite this work as:
-
 [F. Jin et al., "Multiple Patients Behavior Detection in Real-time using mmWave Radar and Deep CNNs," 2019 IEEE Radar Conference (RadarConf), Boston, MA, USA, 2019, pp. 1-6, doi: 10.1109/RADAR.2019.8835656.](https://ieeexplore.ieee.org/abstract/document/8835656)
 
 ## Project Discription
