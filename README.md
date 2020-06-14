@@ -1,5 +1,9 @@
 ## Project Title:
-[Multiple Patients Behavior Detection in Real-time using mmWave Radar and Deep CNNs](https://ieeexplore.ieee.org/abstract/document/8835656)
+Multiple Patients Behavior Detection in Real-time using mmWave Radar and Deep CNNs
+
+Please cite this work as:
+
+[F. Jin et al., "Multiple Patients Behavior Detection in Real-time using mmWave Radar and Deep CNNs," 2019 IEEE Radar Conference (RadarConf), Boston, MA, USA, 2019, pp. 1-6, doi: 10.1109/RADAR.2019.8835656.](https://ieeexplore.ieee.org/abstract/document/8835656)
 
 ## Project Discription
 To address potential gaps noted in patient monitoring in the hospital, a novel patient behavior detection system using mmWave radar and deep convolution neural network (CNN), which supports the simultaneous recognition of multiple patients’ behaviors in real-time, is proposed. In this study, we use an mmWave radar to track multiple patients and detect the scattering point cloud of each one. For each patient, the Doppler pattern of the point cloud over a time period is collected as the behavior signature. A three-layer CNN model is created to classify the behavior for each patient. The tracking and point clouds detection algorithm was also implemented on an mmWave radar hardware platform with an embedded graphics processing unit (GPU) board to collect Doppler pattern and run the CNN model. A training dataset of six types of behavior were collected, over a long duration, to train the model using Adam optimizer with an objective to minimize cross-entropy loss function. Lastly, the system was tested for real-time operation and obtained a very good inference accuracy when predicting each patient’s behavior in a two-patient scenario.
