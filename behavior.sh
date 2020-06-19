@@ -11,7 +11,3 @@ sleep 5
 xterm -title "CNN Node" -e "source ~/.bashrc; cd ti_ros/src/ti-mmwave-mds-cnn/scripts/; python3 mds_cnn_node.py"&
 
 sleep 20 
-
-xterm -title "Seva Aggregator" -e "source ~/.bashrc; cd ti_ros/src/dpa-mmwave-temp-integration/src-ros/; python seva_event_aggregator_module.py"&
-
-xterm -title "Seva Event Executor" -e "source ~/.bashrc; cd ti_ros/src/dpa-mmwave-temp-integration/src-ros/; python seva_event_executor.py"&
